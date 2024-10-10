@@ -1,0 +1,16 @@
+{
+    "name": "ICAStatusPage",
+    "version": "1.0.0",
+    "description": "ICA Status Page project",
+    "main": "index.js",
+    "scripts": {
+      "build": "hugo --minify",
+      "start": "hugo server"
+    },
+    "dependencies": {
+      "hugo": "^0.88.1"
+    },
+    "devDependencies": {},
+    "author": "Ritikas1008",
+    "license": "MIT"
+  }
